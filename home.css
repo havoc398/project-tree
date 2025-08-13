@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding-top: 1rem;
+    font-family: Manrope, sans-serif;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-links{
+    display: flex;
+    gap: 30px;
+}
+.logo{
+    margin-left: 10px;
+}
+img{
+    height: 50px;
+    width: 40px;
+}
+button{
+    margin-right: 10px;
+    background-color: #5AAC38;
+}
+.nav-links a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+
